@@ -13,7 +13,6 @@ Provide a short description explaining the what, why, and how of your project. U
 The study guide gives you a brief note about each subject matter listed.
 - [Credits](#credits)
 NA
-- [License][def]
 
 ## Installation
 
